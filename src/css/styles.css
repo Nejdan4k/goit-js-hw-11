@@ -37,11 +37,11 @@ img {
 }
 
 .form input[type='text']:hover {
-  border-color: black ;
+  border-color: rgb(0, 0, 0) ;
 }
 
 .form input[type='text']:focus {
-  border-color: #4e75ff;
+  border-color: #305bf8;
   outline: none;
 }
 
@@ -51,7 +51,7 @@ img {
   border-radius: 8px;
   width: 91px;
   height: 40px;
-  background-color: #4e75ff;
+  background-color: #0f2985;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.04em;
@@ -61,7 +61,7 @@ img {
 
 .form button[type='submit']:hover,
 .form button[type='submit']:focus {
-  background-color: #6c8cff;
+  background-color: #122568;
 }
 
 
@@ -80,7 +80,7 @@ img {
 }
 
 .gallery-item {
-  border: 1px solid #808080;
+  border: 1px solid #4b4242;
 }
 
 .list-description {
@@ -105,7 +105,7 @@ img {
   height: 32px;
   position: relative;
   border-radius: 50%;
-  color: #FF3D00;
+  color: #09ff00;
   animation: fill 1s ease-in infinite alternate;
 }
 
